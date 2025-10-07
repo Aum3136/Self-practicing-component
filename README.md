@@ -1,7 +1,7 @@
 # 🧑‍💻 JAVA SELF LEARNING PROJECT
 
-**Student ID:** 24IT068  
-**Name:** Krish Patel  
+**Student ID:** 24IT058
+**Name:** Aum Pandya
 **Subject:** Java Self Learning Practice  
 **Course:** B.Tech (IT)
 
